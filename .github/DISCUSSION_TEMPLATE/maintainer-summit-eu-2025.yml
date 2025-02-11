@@ -1,5 +1,4 @@
 title: 'Unconference Topic '
-description: Have an idea for an unconference topic? Use this form to submit ideas
 body:
   - type: input
     id: topic
